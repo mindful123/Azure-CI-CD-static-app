@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>VS5 LLM Model</h1>
+    <h1>VS10 AI for Everyone LLM Model</h1>
 	<h2>Upload your data to make to get predictions</h2>
     <img
       alt="Vue logo"
